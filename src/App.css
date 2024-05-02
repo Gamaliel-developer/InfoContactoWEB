@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;600&display=swap');
+
+.container .row .col-md-6 h1{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  color: #000000;
+  text-decoration: none;
+}
+.container {
+  padding-top: 20px;
+  padding-bottom: 1px;
+}

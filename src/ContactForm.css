@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;600&display=swap');
+
+body {
+  font-family: 'Mulish';
+  background-color: #F0F3FA;
+}
+
+.btn-custom-color {
+  background-color: #EC5530;
+  border-color: #EC5530;
+}
+
+.checkbox-custom-color .form-check-input:checked {
+  background-color: #EC5530;
+  border-color: #EC5530;
+}
+
+.btn-custom-color:hover {
+  background-color: #d44b26;
+  border-color: #d44b26;
+}
+
+.input-custom-placeholder::placeholder {
+  color: #cecece;
+}
+
+span{
+  color: #EC5530;
+}
+
+.custom-title {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 18px;
+  color: #000000;
+  text-decoration: none;
+}
+
+.imageCenter {
+  text-align: center;
+}
+
+.card-wrap{
+  display: flex;
+  flex-flow: wrap;
+}
+
+
